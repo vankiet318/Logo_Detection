@@ -16,9 +16,6 @@ Nguyễn Văn Kiệt
 # Ví dụ
 
 <p align="center">
-  <video width="600" controls autoplay muted loop>
-    <source src="demo/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video><br/>
+  <video src="demo/demo.gif" width=600><br/>
   <i>Result</i>
 </p>
