@@ -16,6 +16,6 @@ Nguyễn Văn Kiệt
 # Ví dụ
 
 <p align="center">
-  <img src="demo.gif" width=600><br/>
+  <video src="demo/demo.mp4" width=600><br/>
   <i>Result</i>
 </p>
